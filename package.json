@@ -57,6 +57,7 @@
 		"drizzle-kit": "^0.31.8"
 	},
 	"overrides": {
+		"defu": "6.1.5",
 		"@sinclair/typebox": "0.34.0"
 	},
 	"engines": {
